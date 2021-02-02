@@ -1,0 +1,14 @@
+{
+  "name": "wipsy",
+  "version": "1.0.0",
+  "description": "A very Cute Bot Made By Adarsh Harisankar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adarsh Harisankar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
